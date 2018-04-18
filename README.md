@@ -1,4 +1,4 @@
-#bitchain
+# bitchain
 
 Bitchain is a distributed filesystem based on the concepts of blockchains.
 
